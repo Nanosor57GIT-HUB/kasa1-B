@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kasa1-b/static/css/main.0b35f1df.css",
-    "main.js": "/kasa1-b/static/js/main.a6153284.js",
-    "index.html": "/kasa1-b/index.html",
-    "main.0b35f1df.css.map": "/kasa1-b/static/css/main.0b35f1df.css.map",
-    "main.a6153284.js.map": "/kasa1-b/static/js/main.a6153284.js.map"
+    "main.css": "/kasa1-b/logements.json/static/css/main.0b35f1df.css",
+    "main.js": "/kasa1-b/logements.json/static/js/main.8a0234ab.js",
+    "index.html": "/kasa1-b/logements.json/index.html",
+    "main.0b35f1df.css.map": "/kasa1-b/logements.json/static/css/main.0b35f1df.css.map",
+    "main.8a0234ab.js.map": "/kasa1-b/logements.json/static/js/main.8a0234ab.js.map"
   },
   "entrypoints": [
     "static/css/main.0b35f1df.css",
-    "static/js/main.a6153284.js"
+    "static/js/main.8a0234ab.js"
   ]
 }
