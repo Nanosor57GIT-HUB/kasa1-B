@@ -58,7 +58,7 @@ const TitleAccomodation = (props) => {
                   return (
                     <img
                       key={index}
-                      src={process.env.PUBLIC_URL + "../componentsIMG/star_rate_24px2.svg"}
+                      src={process.env.PUBLIC_URL + "/componentsIMG/star_rate_24px2.svg"}
                       alt=""
                       className="star-rate-2"
                     />
@@ -71,7 +71,7 @@ const TitleAccomodation = (props) => {
                   return (
                     <img
                       key={index}
-                      src={process.env.PUBLIC_URL + "../componentsIMG/star_rate_24px1.svg"}
+                      src={process.env.PUBLIC_URL + "/componentsIMG/star_rate_24px1.svg"}
                       alt=""
                       className="star-rate-1"
                     />

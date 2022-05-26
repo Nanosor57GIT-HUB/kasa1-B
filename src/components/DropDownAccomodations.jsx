@@ -30,7 +30,7 @@ const DropDownAccomodations = (props) => {
               <div className="description">
                 <p className="titleDescription">Description</p>
                 <img
-                  src={process.env.PUBLIC_URL + "../componentsIMG/arrow-dropdown.svg"}
+                  src={process.env.PUBLIC_URL + "/componentsIMG/arrow-dropdown.svg"}
                   alt="arrow dropdown"
                   className="arrowDown"
                   style={{
@@ -54,7 +54,7 @@ const DropDownAccomodations = (props) => {
                 <div className="equipements">
                   <p className="titleEquipements">Equipements</p>
                   <img
-                    src={process.env.PUBLIC_URL + "../componentsIMG/arrow-dropdown.svg"}
+                    src={process.env.PUBLIC_URL + "/componentsIMG/arrow-dropdown.svg"}
                     alt="arrow dropdown"
                     className="arrowDown"
                     style={{

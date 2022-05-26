@@ -12,7 +12,7 @@ const Accomodations = (props) => {
     data: blogs,
     error,
     isLoading,
-  } = useFetch(`http://localhost:3000/logements.json`);
+  } = useFetch(`https://nanosor57git-hub.github.io/kasa1-b/logements.json`);
 
   return (
     <div>

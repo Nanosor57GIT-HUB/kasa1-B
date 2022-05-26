@@ -5,7 +5,7 @@ const Pieds = () => {
     <div className="footerContainer">
       <div className="footer">
         <div className="imgFooter">
-          <img src={process.env.PUBLIC_URL + "../img/logoKasaFooter.svg"} alt="Logo_footer" />
+          <img src={process.env.PUBLIC_URL + "/img/logoKasaFooter.svg"} alt="Logo_footer" />
         </div>
         <p className="copyright">© 2020 Kasa. All rights reserved</p>
       </div>

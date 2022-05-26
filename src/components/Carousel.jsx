@@ -37,12 +37,12 @@ const Carousel = (props) => {
             >
               {index === current && (
                 <img
-                  src={process.env.PUBLIC_URL + {pic}}
+                  src={pic}
                   alt={pic}
                   className="lodging"
                   key={pic}
                   style={{
-                    width: `120%`,
+                    width: `180%`,
                   }}
                 />
               )}
@@ -56,13 +56,13 @@ const Carousel = (props) => {
         {slides[0] !== 1 ? (
           <div className="arrowSlide">
             <img
-              src={process.env.PUBLIC_URL + "../componentsIMG/arrow-left.svg"}
+              src={process.env.PUBLIC_URL + "/componentsIMG/arrow-left.svg"}
               alt="arrow-slide_left"
               className="arrowLeft"
               onClick={prevSlide}
             />
             <img
-              src={process.env.PUBLIC_URL + "../componentsIMG/arrow-right.svg"}
+              src={process.env.PUBLIC_URL + "/componentsIMG/arrow-right.svg"}
               alt="arrow_slide_right"
               className="arrowRight"
               onClick={nextSlide}
