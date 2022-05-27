@@ -10,7 +10,7 @@ const Home = () => {
     data: blogs,
     error,
     isLoading,
-  } = useFetch("https://nanosor57git-hub.github.io/kasa1-b/logements.json");
+  } = useFetch("https://nanosor57git-hub.github.io/logements.json");
 
   return (
     <div>
